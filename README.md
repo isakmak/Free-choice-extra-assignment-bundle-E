@@ -12,8 +12,8 @@ On top of that i learned some ~~HTML~~ *basic markdown language syntax*. I had n
 >### Some basic features
 >
 >- Bold | ** **
->- Italic * * or _ _
->- Strikethrough ~~ ~~
+>- Italic | * * or _ _
+>- Strikethrough | ~~ ~~
 >
 >For more, check this [link](https://www.markdownguide.org/basic-syntax/).
 
