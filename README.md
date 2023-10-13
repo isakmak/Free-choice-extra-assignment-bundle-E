@@ -5,9 +5,19 @@
 
 In this assignment, my task was to deploy a *website* using **Github Pages**.
 
-On top of that i learned some ~~HTML~~ basic markdown language syntax. I had not used this much before, but i will definitely be utilizing this in the future for basic text formatting. 
+On top of that i learned some ~~HTML~~ *basic markdown language syntax*. I had not used this much before, but i will definitely be utilizing this in the future for basic text formatting. 
 
 **_It helps to make text more readable for others as well as yourself_.**
+
+>### Some basic features
+>
+>- Bold | ** **
+>- Italic * * or _ _
+>- Strikethrough ~~ ~~
+>
+>For more, check this [link](https://www.markdownguide.org/basic-syntax/).
+
+![GitHub Logo](/assets/images/github.png)
 
 Lastly, a quote i found inspiring:
 
